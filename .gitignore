@@ -1,0 +1,17 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!build_release.py
+!build_voices.py
+!build_child_animation_test.py
+!branding/
+!branding/logo.png
+!reference/
+!reference/LICENSE
+!reference/tools/
+!reference/tools/asbtool.py
+!reference/tools/byml.py
+!reference/tools/zsmod.py
+!reference/tools/zstool.py
+!CHANGELOG.md
